@@ -23,8 +23,12 @@ In addition to the velocity model, this script is also used to provide a 3-D gri
 * pyproj
 
 # Example Output
+
+
 Horizontal Grid
 ![Horizontal_Grid_LonLat](https://github.com/user-attachments/assets/93f53546-3a81-47bc-a7dd-b89c5f4891f0)
+
+
 Vertical Grid
 ![Vertical_Grid_EW](https://github.com/user-attachments/assets/4e61294e-98bd-41db-bb09-182c4dfbdb38)
 ![Vertical_Grid_NS](https://github.com/user-attachments/assets/5ff9fb97-dd3b-4b74-89b4-8973c4662f40)
